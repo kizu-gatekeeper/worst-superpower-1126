@@ -1,7 +1,7 @@
 """Entry for make.fun: Worst Superpower.
 
-One line inventing the most useless superpower: sensing exactly
-when a stranger's phone is about to die, and nothing else.
+One line inventing the most useless superpower of all: sensing
+exactly when a stranger's phone is about to die, and nothing else.
 """
 import os
 
